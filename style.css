@@ -25,6 +25,7 @@
   
   .image-section {
     flex: 1;
+    background-image: url("img/bg.jpg");
   }
   
   .image-section img {
